@@ -1,7 +1,0 @@
-AulaTeste_VibracaoEixo (3).ipynb
-https://colab.research.google.com/drive/1QQ3aqPWWkwh5ZHrFPchmT7zKCSs-Awav?usp=sharing
-
-AulaTeste_VibracaoEixo.ipynb
-https://colab.research.google.com/drive/11RIrCaibxSp2E9pKun4kR6R-tYBJ90xu?usp=sharing
-
-
