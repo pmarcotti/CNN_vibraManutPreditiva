@@ -8,3 +8,5 @@ Agradecimentos:<br>
 - Prof. Dr. Wilson Carlos da Silva Júnior<br>
 - Prof. Ms. Rogério D. Dantas<br>
 Pela gentileza de permitir a utilização dos dados de ensaio para a aula-teste
+
+Acionando clone do github

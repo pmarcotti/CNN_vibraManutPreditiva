@@ -1,0 +1,79 @@
+Introdução a Deep Learning com Pyhton e Keras (Parte 1) - dia 10/08/2021
+
+- Canal do Salvatore - https://www.youtube.com/channel/UCbWFEr7zsKJ92Psrfam7W8Q
+
+Site de referencia da aula: http://3b1b.co/neural-networks
+
+Entrevista visionário de 1980 - https://www.youtube.com/watch?v=fdPHKMUevTM
+
+https://www.adorocinema.com/filmes/filme-198371/
+
+--------------------------------------------------------------------------
+
+ELIZA -> Primeiro chatbot 
+
+
+Ray Kurzweik (Fundador de NLP) - https://www.ted.com/talks/ray_kurzweil_the_accelerating_power_of_technology?language=pt-br
+(Tradutor de palavras para voz)
+Tem um livro - https://www.google.com.br/books/edition/Como_Criar_uma_Mente/tNCuCgAAQBAJ?hl=pt-BR&gbpv=1&printsec=frontcover
+
+---------------------------------------------------------------------------
+Redes Neurais e Opencv com Deep Learning
+https://www.pyimagesearch.com/
+
+---------------------------------------------------------------------------
+
+Aprendizado de Máquinas
+ 1) Supervisionado
+ 2) Não Supervisionado
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+PARTE 2 - 13/08/2021
+
+https://miro.com/app/board/o9J_l2j6jos=/
+
+https://colab.research.google.com/drive/15ztudjf1nBsPDW9Cdg4oTaITC5iqS9aQ#scrollTo=LOMnQeXBufsR
+
+https://github.com/paulosalvatore/Ocean_DeepLearning_13_08_2021
+
+Numero de camadas ocultas como escolher (Ajuda muito)
+https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw
+
+https://www.tensorflow.org/guide/keras/save_and_serialize
+
+https://www.pyimagesearch.com/2017/10/02/deep-learning-on-the-raspberry-pi-with-opencv/
+
+https://www.tensorflow.org/lite/guide/android
+
+https://www.tensorflow.org/js?hl=pt-br
+
+
+
+# Normalização de dados
+
+# 255 vire 1
+# 127 vire 0.5
+# 0 vire 0
+# E assim por diante
+
+# Posso pegar o meu valor que eu quero transformar e dividir pelo valor máximo do meu intervalo
+# Exemplo, se eu dividir 255 por 255, tenho 1
+# Exemplo, se eu dividir 127 por 255, tenho ~0.5
+# Exemplo, se eu dividir 0 por 255, tenho 0
+
+"""
+# Explicando o porque da conversão de tipos
+
+primeira_imagem = x_treino[0]
+primeiro_pixel = primeira_imagem[0] # uint8
+
+# Quando eu divido uint8 por algum número, recebemos um float64
+# Porém, o tensorflow precisa de float32 para trabalhar
+# Portanto, precisamos converter o tipo antes de dividí-lo
+
+print(primeiro_pixel, type(primeiro_pixel / 255)) # float64
+
+# Fim da explicação
+"""
+

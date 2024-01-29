@@ -1,0 +1,91 @@
+Apostila parte 1 (27-02-2023)
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+fund-ia-car-v2+2023_02_T36/course/
+
+https://www.stateoftheart.ai/models
+
+jane.piantoni@fit-tecnologia.org.br
+
+
+
+Apostila parte 2 (28-02-2023)
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+intro-python-v2+2023_02_T36/course/
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+intro-python-v2+2023_02_T36/course/
+
+https://www.anaconda.com/products/distribution
+
+Notebook Aula 1 Python - 
+https://colab.research.google.com/drive/1QbZ4aLJkwhr5sHsQ_UeD3ijN-VhZUYSn?usp=sharing
+
+https://www.linkedin.com/posts/claudiaantunesdelima_ter%C3%A7ouuuu-%C3%B3timo-dia-para-todos-n%C3%B3s-activity-7036283734299414528-SNC0?utm_source=share&utm_medium=member_android
+
+aula 3
+
+Notebook Python 2 - https://colab.research.google.com/drive/12YmUWWTRyRtJM6f9WPQJLa__Xkf-yJrG?usp=sharing
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+intro-python-v2+2023_02_T36/
+
+https://colab.research.google.com/drive/1uBR6fdUuw4FJ4syVlAcrc3fu55vs-fsJ?usp=sharing
+
+Aula 4 
+https://colab.research.google.com/drive/12YmUWWTRyRtJM6f9WPQJLa__Xkf-yJrG?usp=sharing
+
+ChatGPT: o profissional de Dados e a revolução das Inteligências Artificiais - Gratuito e com certificado.  https://forms.xpeducacao.com.br/semana-dados/?utm_source=activecampaign&utm_medium=email&utm_content=&utm_campaign=dados&utm_term=base-eventos
+
+
+https://app.becas-santander.com/program/bolsas-santander-tecnologia-santander-coders-2023
+
+https://ada.tech/sou-aluno/programas/santander-coders-2023
+
+Notebook Python 2 - https://colab.research.google.com/drive/198-u_bgjIrjmCvbM0kERPWkb3nntc1dT?usp=sharing
+
+https://colab.research.google.com/drive/198-u_bgjIrjmCvbM0kERPWkb3nntc1dT?usp=sharing
+
+Notebook 2 - https://colab.research.google.com/drive/12YmUWWTRyRtJM6f9WPQJLa__Xkf-yJrG?usp=sharing
+Notebook 3 - https://colab.research.google.com/drive/198-u_bgjIrjmCvbM0kERPWkb3nntc1dT?usp=sharing
+
+Notebook Biblioteca - https://colab.research.google.com/drive/1Rrbq-NevdvnQi_QD1mK7ucvM1Mu80VaL?usp=sharing
+
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+softex_nmpy+2023_02_T36/course/
+
+https://pt.khanacademy.org/
+
+Notebook NumPy - https://colab.research.google.com/drive/1OZ7PM8KyQS9pge5SpWhy2A-gsAeFXgfe?usp=sharing
+
+Aula 6
+Notebook - Exemplos Aplicados de NumPy - https://colab.research.google.com/drive/1lunD9IIBiWKSnn8za7k_vss-Vks76953?usp=sharing
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+python-data-science-v2+2023_02_T36/course/
+
+Notebook DS NumPy - https://colab.research.google.com/drive/1JWRagsl28xaLD4AzDRruNZ54228Ew4DV?usp=sharing
+
+Aula 7
+https://pandas.pydata.org/
+
+Notebook DS Pandas - https://colab.research.google.com/drive/1zwtz1SlwGPAs0MkeVlaC6vMwdeEiL7Qh?usp=sharing
+
+Notebook Pandas - https://colab.research.google.com/drive/1zwtz1SlwGPAs0MkeVlaC6vMwdeEiL7Qh?usp=sharing
+
+Aula 8
+
+Matplotlib - https://colab.research.google.com/drive/1FsQBCnv88Z6QWEBPryNdU5d8X10ybhHt?usp=sharingNotebook DS Seaborn - https://colab.research.google.com/drive/1cKsPoh1mBMCfFymeTtcRY_uwrL8rmD8Y?usp=sharing
+
+Aula 9
+
+Notebook DS Seaborn - https://colab.research.google.com/drive/1cKsPoh1mBMCfFymeTtcRY_uwrL8rmD8Y?usp=sharing
+
+https://archive.ics.uci.edu/
+https://www.kaggle.com/datasets
+
+https://colab.research.google.com/drive/1cKsPoh1mBMCfFymeTtcRY_uwrL8rmD8Y?usp=sharing
+
+Notebook PYGWALKER - https://colab.research.google.com/drive/1JOJO_WqUVqCinRgy5YZW_XMuVkAADHo6?usp=sharing
+
+Imagem - Numpy - https://colab.research.google.com/drive/1S0eN5CoDucH9KgXWDMKg9h0kiVSPIGCW?usp=sharing
+
+https://www.youtube.com/watch?v=SrjJPmIHovU
+
+
