@@ -1,0 +1,86 @@
+
+adson.nogueira@fit-tecnologia.org.br
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+redes-neurais+2023_pt/course/
+
+https://chat.whatsapp.com/CUEX4vRDOuhBvM1cAxD52O
+
+https://chat.whatsapp.com/CUEX4vRDOuhBvM1cAxD52O
+
+https://www.ruder.io/optimizing-gradient-descent/
+
+https://pt.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient
+
+https://numpy.org/doc/stable/reference/generated/numpy.squeeze.html#numpy-squeeze
+
+https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+fundamentos_de_machine_learning_v1+2023_pt/course/
+
+https://colab.research.google.com/drive/1QW0sB_gCDXCFTiwQyPR-8c2TuKKRK_Kg?usp=sharing
+
+https://colab.research.google.com/drive/1QW0sB_gCDXCFTiwQyPR-8c2TuKKRK_Kg?usp=sharing
+
+Aula 14/02
+https://colab.research.google.com/drive/1vXYbXgrkEREqR8HBZECbSZxgfQNzYhvh?usp=sharing
+
+
+Aula 15/02
+https://colab.research.google.com/drive/1gQ_r6nzU-9bBnZpYrT5PUh6dOo-uOcwY?usp=sharing
+
+
+Notebook Ensemble - https://colab.research.google.com/drive/1gQ_r6nzU-9bBnZpYrT5PUh6dOo-uOcwY?usp=sharing
+
+
+Notebook Ensemble - https://colab.research.google.com/drive/1gQ_r6nzU-9bBnZpYrT5PUh6dOo-uOcwY?usp=sharing
+
+https://colab.research.google.com/drive/1vXYbXgrkEREqR8HBZECbSZxgfQNzYhvh?usp=sharing
+
+Notebook Regressao Linear - https://colab.research.google.com/drive/1kMwQ3Q2EE7iEsEh9PIKl9jnrUqofi83s?usp=sharing
+
+Notebook Regressao Multipla - https://colab.research.google.com/drive/1d8YXik5Lkd89OhpCYz-oN9YAyj-ytEUo?usp=sharing
+
+Notebook Regressao SGD - https://colab.research.google.com/drive/1rxojVYYEDljOKkD1-CLWk0dQE1csPxvx?usp=sharing
+
+Data Science Meetup - https://www.youtube.com/watch?v=f3tb85P3D2Y
+
+Notebook https://colab.research.google.com/drive/1rxojVYYEDljOKkD1-CLWk0dQE1csPxvx?usp=sharing
+
+Notebook Agrupamento - https://colab.research.google.com/drive/1NAoc0eyQTf4MqnlXIusFW3OKgfQHVqkq?usp=sharing
+
+aula 16-02
+
+Notebook 1 - Avaliação Classificação - https://colab.research.google.com/drive/1X2SMkSma1hwxQqGTj1CrwGwhe_GiYDvA?usp=sharing
+
+Notebook 2 - Avaliação Regressão - https://colab.research.google.com/drive/1f9BykvRiTSXE6L5A5yWR6AJTi9PsMcoN?usp=sharing
+
+Notebook Persistência Salvar - https://colab.research.google.com/drive/1BdH6-Ke52SqjUR3BarbX889QJ6Bo9AUv?usp=sharing
+
+Notebook Persistência Leitura - https://colab.research.google.com/drive/1EPIMPsoDHSwu6naBsH3kT7X5A80ZX57n?usp=sharing
+
+Notebook Persistência Salvar - https://colab.research.google.com/drive/1BdH6-Ke52SqjUR3BarbX889QJ6Bo9AUv?usp=sharing
+Notebook Persistência Leitura - https://colab.research.google.com/drive/1EPIMPsoDHSwu6naBsH3kT7X5A80ZX57n?usp=sharing
+
+https://studiolab.sagemaker.aws/
+
+https://explore.skillbuilder.aws/
+
+https://aws.amazon.com/pt/events/marathon/
+
+https://azure.microsoft.com/
+
+https://studio.azureml.net/
+ane.piantoni@fit-tecnologia.org.br
+
+https://www.microsoft.com/pt-br/events-hub
+
+https://learn.microsoft.com/en-us/training/
+
+https://www.cloudskillsboost.google/
+
+
+jane.piantoni@fit-tecnologia.org.br
+
+
+
+
+
+
